@@ -54,7 +54,7 @@ li.nav-item {
     z-index: 0;
     position: relative;
 }
-
+/* dgfdsa */
 .banner.home_banner::before {
     background: #00000073;
     position: absolute;
