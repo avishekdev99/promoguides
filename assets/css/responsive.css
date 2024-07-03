@@ -90,11 +90,11 @@
     }
 
     a.navbar-brand img {
-        max-width: 200px;
+        max-width: 80px;
     }
 
     .logo_footer .logo a img {
-        width: 200px;
+        width: 120px;
     }
 }
 

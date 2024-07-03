@@ -1,9 +1,12 @@
 header {
-    padding: 15px 0;
+    padding: 0px 0;
     background: #16272d;
     position: fixed;
     width: 100%;
     z-index: 2;
+}
+nav.navbar.navbar-expand-lg {
+    padding: 0;
 }
 
 body {
@@ -518,11 +521,11 @@ nav .logo a {
 }
 
 a.navbar-brand img {
-    max-width: 220px;
+    max-width: 90px;
 }
 
 .logo_footer .logo a img {
-    width: 220px;
+    width: 120px;
 }
 
 .container-fluid {
